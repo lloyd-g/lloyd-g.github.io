@@ -1,9 +1,13 @@
 body {
-  background-color: rgb(6, 39, 48);
-  color: rgb(245, 11, 233);
-  
+  background-color: lightblue;
 }
+
 h1 {
-  color: rgb(12, 231, 195);
-  margin-left: 20px;
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
 }
